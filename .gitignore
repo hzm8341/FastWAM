@@ -244,3 +244,7 @@ manifest.json
 wandb/
 onelogger.err
 onelogger.log
+
+# Local Codex runtime artifacts
+.agent-tmp/
+.venv_fastwam/
